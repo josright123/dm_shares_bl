@@ -1,2 +1,6 @@
 version 1.0
 20240423
+
+(1) 開發軟件套件: bl_iot_sdk
+    bl_iot_sdk/
+      版本: 1.6.39-238-gf5ba0a7ee
